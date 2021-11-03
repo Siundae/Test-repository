@@ -7,3 +7,7 @@ h1 {
 p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+ul {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  list-style: armenian;
+}
